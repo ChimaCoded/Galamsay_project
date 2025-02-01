@@ -55,8 +55,9 @@ python -m unittest tests/test_galamsayAPI.py
 ## API Endpoints
 GET /analysis
 
-Response: 
-![image](https://github.com/user-attachments/assets/30c924b5-5fcc-43b1-b2f4-236594a10163)
+Response:
+![image](https://github.com/user-attachments/assets/ed4773fc-ca4f-45d6-8456-d57445312f51)
+
 
 
 
