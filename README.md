@@ -26,12 +26,14 @@ Python 3.8 or higher
 
 ## Installation
 ### Clone the Repository:
-git clone <repository-url>
+git clone https://github.com/ChimaCoded/Galamsay_project.git
+
 cd galamsay_project
 
 ### Set Up a Virtual Environment:
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate.bat
+
+source venv/bin/activate or venv\Scripts\activate.bat 
 
 ### Install requirements.txt
 pip install -r requirements.txt
